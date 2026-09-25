@@ -1,27 +1,88 @@
-# 💫 About Me:
-I am learning in Jain institute of technology <br>Davangere 
+<div align="center">
+
+👋 Hi, I'm Rahul GS
+💻 Aspiring Software Developer | 🎓 Computer Science Student | 🚀 Exploring Modern Technologies
+<p>
+  <a href="https://github.com/Rahulgurugs">
+    <img src="https://img.shields.io/badge/GitHub-Rahulgurugs-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-gs-12574b341/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20GS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+</div>
+
+👨‍💻 About Me
+I'm a Computer Science student at Jain Institute of Technology, Davangere, with a growing interest in software development and modern technologies.
+I enjoy learning by building, experimenting with new ideas, and turning concepts into practical projects. I'm continuously working on strengthening my programming fundamentals, development skills, and problem-solving abilities.
+- 🎓 Computer Science student at Jain Institute of Technology, Davangere
+- 💻 Aspiring Software Developer
+- 🚀 Building projects to gain practical development experience
+- 🌱 Continuously expanding my technical expertise
+- 🧠 Interested in problem-solving and software development
+- 🎯 Working towards becoming a skilled and industry-ready developer
+🚀 What I'm Currently Focused On
+▸ Strengthening programming fundamentals
+▸ Building practical software projects
+▸ Improving problem-solving skills
+▸ Exploring modern software technologies
+▸ Learning development tools and workflows
+▸ Growing through hands-on experience
+🛠️ Technical Skills
+My technology stack is continuously evolving as I learn and build more projects.
+
+💻 Programming
+Add your programming languages here:
+C C++ Java Python JavaScript
+🌐 Development
+Add the technologies you actively use:
+HTML CSS JavaScript
+🔧 Tools & Platforms
+Git GitHub VS Code
+Note: Remove any technology above that you don't actually use, and add the technologies you know.
+
+📌 Featured Projects
+I'm currently building and improving projects to apply my technical knowledge in practical scenarios.
+Project	Description	Technologies
+🚧 Coming Soon	More projects are currently in development.	—
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulguru______gs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsr01876@gmail.com) 
+📂 Explore all my repositories:
+👉 github.com/Rahulgurugs
+📊 GitHub Analytics
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rahulgurugs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rahulgurugs&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rahulgurugs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Rahulgurugs&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Rahul's GitHub Stats"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahulgurugs&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulgurugs&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahulgurugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔥 Contribution Streak
+<div align="center">
 
----
-[![](https://komarev.com/ghpvc/?username=Rahulgurugs&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulgurugs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+🌐 Let's Connect
+I'm always interested in connecting with other developers, learning from the community, and exploring opportunities to collaborate.
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-gs-12574b341/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Rahulgurugs">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+🎯 My Goal
+Learn continuously. Build consistently. Improve every day.
+
+My goal is to develop strong technical foundations, build meaningful projects, and grow into a capable software developer who can solve real-world problems through technology.
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+Let's build something meaningful. 🚀
+</div>
